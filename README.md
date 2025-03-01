@@ -2,7 +2,7 @@
 
 ## 🎮 About the Game
 
-Snapshot: A World Reimagined is an immersive first-person puzzle adventure built in Unreal Engine 5. You step into the shoes of a journalist armed with a camera, capable of transforming the world through photography. With each snapshot, you restore light, color, and harmony to a world that has lost its vibrance.
+Fragments Of Reality is an immersive first-person puzzle adventure built in Unreal Engine 5. You step into the shoes of a journalist armed with a camera, capable of transforming the world through photography. With each snapshot, you restore light, color, and harmony to a world that has lost its vibrance.
 
 ## 📸 Gameplay Overview
 
